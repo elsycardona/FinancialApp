@@ -3,17 +3,15 @@
 ## Índice
 
 - [Introducción](#Introducción)
-
 - [Vídeo Explicativo](#Vídeo-Explicativo)
 - [Hacker Edition](#Hacker-Edition)
 - [Herramientas](#Herramientas)
-- [Autoras](#autoras)
+- [Autor](#Autor)
 - [Agradecimientos](#agradecimientos)
 
 ## Introducción
 
 ![logo](https://
-
 
 ## Vídeo Explicativo
 
@@ -22,8 +20,6 @@ En el siguiente video se explica este documento de una manera breve:
 [Video - Loom](https://
 
 ## Herramientas
-
-![puntaje](https://github.com/elsycardona/e-commerce/blob/master/Imagenes/puntaje.png?raw=true)
 
 Durante este proceso se usaron diversas herramientas:
 - [Google](https://www.google.com/) - Buscador
@@ -39,7 +35,6 @@ Durante este proceso se usaron diversas herramientas:
 En está sección se optó por publicar un texto en Medium, en el siguiente link:
 
 [Texto - Medium](HTTPS:// 
-
 
 ## Autor
 
