@@ -15,7 +15,8 @@
 
 ## Introducción
 
-![logo](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/LogoTus.png) ![slogan](SLOGAN
+![logo](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/LogoTus.png) ![slogan](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/sloganbanco.png)
+
 
 La App **"_Tus Finanzas_"** requiere un re-diseño, que el Banco en cuestión ha solicitado.
 Durante 2 semanas se han planteado ideas para dicho proceso, basado en la Data que el mismo Banco ha proporcionado y con un Research validando lo planteado y la hipótesis propuesta; para el Banco es importante aumentar el número de descargas, así como llegar a más usuarios, con el fin de fomentar en ellos la Cultura del Ahorro.
@@ -44,7 +45,7 @@ De acuerdo al análisis de la Data brindada por el Banco se ha considerado lo si
 
 De acuerdo al Research y Benchmark del sistema **iOS** vs **Android** se encontró la siguiente información
 
-![graphic2](DESCARGAS PLAY STORE APP STORE
+![graphic2](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/playstoredownloads.png)
 
 
 ## Solución
