@@ -1,5 +1,7 @@
 ## Financial App
 
+![logo](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/LogoTus.png)
+
 ## Índice
 
 - [Introducción](#Introducción)
@@ -15,7 +17,7 @@
 
 ## Introducción
 
-![logo](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/LogoTus.png) ![slogan](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/sloganbanco.png)
+![slogan](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/sloganbanco.png)
 
 
 La App **"_Tus Finanzas_"** requiere un re-diseño, que el Banco en cuestión ha solicitado.
@@ -87,5 +89,9 @@ En está sección se optó por publicar un texto en Medium, en el siguiente link
 - Elsy Cardona Pérez - [elsycardona](https://github.com/elsycardona/)
 
 ## Agradecimientos
+
+Agradezco a los coaches del track de UX de _Laboratoria_
+A mis compañeras de squad y de track
+A todos las personas para las pruebas de usabilidad, encuesta de validación de hipótesis y feedback
 
 
