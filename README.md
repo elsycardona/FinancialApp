@@ -20,9 +20,8 @@
 La App **"_Tus Finanzas_"** requiere un re-diseño, que el Banco en cuestión ha solicitado.
 Durante 2 semanas se han planteado ideas para dicho proceso, basado en la Data que el mismo Banco ha proporcionado y con un Research validando lo planteado y la hipótesis propuesta; para el Banco es importante aumentar el número de descargas, así como llegar a más usuarios, con el fin de fomentar en ellos la Cultura del Ahorro.
 
-<center>
-![App1](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/appabierta.png)
-</center>
+	![App1](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/appabierta.png)
+
 
 ## Objetivos
 
@@ -49,11 +48,11 @@ De acuerdo al análisis de la Data brindada por el Banco se ha considerado lo si
 
 _Google Play Store_
 
-![PlayStore](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/playstore.png)
+	![PlayStore](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/playstore.png)
 
 Dentro de las pruebas de Usabilidad se encontró que no era claro: "Crear Cuenta", para referirse a iniciar un apartado de dinero exclusivamente para cada uno de sus ahorros; por lo cual se propone referirse como: "_Nueva Meta_"
 
-![NuevaMeta](https://
+![NuevaMeta](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/metaicono.png)
 
 ## Vídeo Explicativo
 
