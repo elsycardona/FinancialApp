@@ -15,12 +15,12 @@
 
 ## Introducción
 
-![logo](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/LogoTus.png)
+![logo](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/LogoTus.png) ![slogan](SLOGAN
 
 La App **"_Tus Finanzas_"** requiere un re-diseño, que el Banco en cuestión ha solicitado.
 Durante 2 semanas se han planteado ideas para dicho proceso, basado en la Data que el mismo Banco ha proporcionado y con un Research validando lo planteado y la hipótesis propuesta; para el Banco es importante aumentar el número de descargas, así como llegar a más usuarios, con el fin de fomentar en ellos la Cultura del Ahorro.
 
-	![App1](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/appabierta.png)
+![App1](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/appabierta.png)
 
 
 ## Objetivos
@@ -40,15 +40,18 @@ Si no que ellos también podrían descargar y hacer uso de la aplicación median
 
 De acuerdo al análisis de la Data brindada por el Banco se ha considerado lo siguiente:
 
-![graphic1](GRAFICA DESCARGAS VS. EL TIEMPO
+![graphic1](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/descargaVsTiempo.png)
 
+De acuerdo al Research y Benchmark del sistema **iOS** vs **Android** se encontró la siguiente información
+
+![graphic2](DESCARGAS PLAY STORE APP STORE
 
 
 ## Solución
 
 _Google Play Store_
 
-	![PlayStore](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/playstore.png)
+![PlayStore](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/playstore.png)
 
 Dentro de las pruebas de Usabilidad se encontró que no era claro: "Crear Cuenta", para referirse a iniciar un apartado de dinero exclusivamente para cada uno de sus ahorros; por lo cual se propone referirse como: "_Nueva Meta_"
 
