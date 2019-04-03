@@ -15,10 +15,12 @@
 
 ## Introducción
 
-![logo](https://https://github.com/elsycardona/FinancialApp/blob/master/imagenes/logoTF2.jpg)
+![logo](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/LogoTus.png)
 
-La App "Tus Finanzas" requiere un re-diseño, que el Banco en cuestión ha solicitado.
+La App **"_Tus_Finanzas_"** requiere un re-diseño, que el Banco en cuestión ha solicitado.
 Durante 2 semanas se han planteado ideas para dicho proceso, basado en Data que el mismo Banco ha proporcionado y con un Research validando lo planteado y la hipótesis propuesta; para el Banco es importante aumentar el número de descargas, así como llegar a más usuarios, conel fin de fomentar en ellos la Cultura del Ahorro.
+
+<center>https://github.com/elsycardona/FinancialApp/blob/master/imagenes/appabierta.png</center>
 
 ## Objetivos
 
@@ -29,6 +31,14 @@ Durante 2 semanas se han planteado ideas para dicho proceso, basado en Data que 
 ### Análisis de Datos
 
 ## Solución
+
+_Google_Play_Store_
+
+![PlayStore](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/playstore.png)
+
+"_Nueva_Meta_"
+
+![NuevaMeta](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/nuevameta1.jpg)
 
 ## Vídeo Explicativo
 
