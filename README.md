@@ -58,21 +58,21 @@ De acuerdo al Research y Benchmark del sistema **iOS** vs **Android** se encontr
 
 Se realizó una Encuesta en Google Form, que fue respondida por 20 personas, en el rango de edad que se considera usan aplicaciones financieras de 25 a 44 años, de lo cual se obtuvieron los siguientes resultados:
 
-![edad](
+![edad](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/edad.png?raw=true)
 
-![ocupacion](
+![ocupacion](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/ocupacion.png?raw=true)
 
-![app](
+![app](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/utilizacionAppBanco.png?raw=true)
 
-![transacciones](
+![transacciones](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/transacciones.png?raw=true)
 
-![suelesAhorrar](
+![suelesAhorrar](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/suelesAhorrar.png?raw=true)
 
-![porque](
+![porque](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/porque.jpg?raw=true)
 
-![motivarte](
+![motivarte](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/motivacion.jpg?raw=true)
 
-![tiendasDepartamentales](
+![tiendasDepartamentales](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/tiendasDepartamentales.png?raw=true)
 
 ## Solución
 
@@ -88,11 +88,7 @@ Generar un **Registro** fácil y rápido, en sólo 3 pasos:
 2. Verificando la cuenta mediante un código enviado por SMS
 3. Generando y confirmando una contraseña
 
-![paso1](
-
-![paso2](
-
-![paso3](
+![paso1](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/paso1.png?raw=true) ![paso2](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/paso2.png?raw=true)![paso3](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/paso3.png?raw=true)
 
 Dentro de las pruebas de Usabilidad se encontró que no era claro: "Crear Cuenta", para referirse a iniciar un apartado de dinero exclusivamente para cada uno de sus ahorros; por lo cual se propone referirse como: "_Nueva Meta_"
 
@@ -100,13 +96,13 @@ Dentro de las pruebas de Usabilidad se encontró que no era claro: "Crear Cuenta
 
 Para incentivar se proponen **comerciales** que aparezcan mientras carga la aplicación, se crea una cuenta, etc.
 
-![loading](
+![loading](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/loading.png?raw=true)
 
-![comercial](
+![comercial](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/comercial.png?raw=true)
 
 Y al finalizar la meta generar un incentivo
 
-![metafinalizada](
+![metafinalizada](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/metafinalizada.png?raw=true)
 
 ## Vídeo Explicativo
 
@@ -128,7 +124,7 @@ Durante este proceso se usaron diversas herramientas:
 
 ## Hacker Edition
 
-![tarjetaredisenada](
+![tarjetaredisenada](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/tarjeta.png?raw=true)
 
 En está sección se optó por publicar un texto en Medium, en el siguiente link:
 
