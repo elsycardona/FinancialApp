@@ -21,7 +21,7 @@
 
 
 La App **"_Tus Finanzas_"** requiere un re-diseño, que el Banco en cuestión ha solicitado.
-Durante 2 semanas se han planteado ideas para dicho proceso, basado en la Data que el mismo Banco ha proporcionado y con un Research validando lo planteado y la hipótesis propuesta; para el Banco es importante aumentar el número de descargas, así como llegar a más usuarios, con el fin de fomentar en ellos la Cultura del Ahorro.
+Durante 2 semanas se han planteado ideas para dicho proceso, basado en la Data que el mismo Banco ha proporcionado y con un Research que ha validado lo planteado así como la hipótesis propuesta; para el Banco es importante aumentar el número de descargas, así como llegar a más usuarios, con el fin de fomentar en ellos la Cultura del Ahorro.
 
 ![App1](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/hometarjeta.png?raw=true)
 
@@ -29,7 +29,7 @@ Durante 2 semanas se han planteado ideas para dicho proceso, basado en la Data q
 ## Objetivos
 
 * Aumentar el número de descargas de la App
-* Fomentar la Cultura de Pago
+* Fomentar la Cultura de Ahorro
 
 ## Planteamiento del Problema
 
@@ -108,7 +108,7 @@ Y al finalizar la meta generar un incentivo
 
 En el siguiente video se explica este documento de una manera breve: 
 
-[Video - Loom](https://
+[Video - Loom](https://www.loom.com/share/f57674b2809c447fa668ec72bdd164ba)
 
 ## Herramientas
 
