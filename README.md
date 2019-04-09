@@ -96,13 +96,13 @@ Dentro de las pruebas de Usabilidad se encontró que no era claro: "Crear Cuenta
 
 Para incentivar se proponen **comerciales** que aparezcan mientras carga la aplicación, se crea una cuenta, etc.
 
-![loading](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/loading.png?raw=true)
-
-![comercial](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/comercial.png?raw=true)
+![loading](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/loading.png?raw=true)![comercial](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/comercial.png?raw=true)
 
 Y al finalizar la meta generar un incentivo
 
 ![metafinalizada](https://github.com/elsycardona/FinancialApp/blob/master/imagenes/metafinalizada.png?raw=true)
+
+[ **Prototipo de Alta Fidelidad en Marvel App** ](https://marvelapp.com/ahiidie)
 
 ## Vídeo Explicativo
 
@@ -128,7 +128,7 @@ Durante este proceso se usaron diversas herramientas:
 
 En está sección se optó por publicar un texto en Medium, en el siguiente link:
 
-[Texto - Medium](HTTPS:// 
+[Texto - Medium](https://medium.com/@elsycp/dise%C3%B1ando-el-re-dise%C3%B1o-735aef2fb1f)
 
 ## Autor
 
